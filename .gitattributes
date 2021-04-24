@@ -1,1 +1,2 @@
-modis_2000-2019_Australia.csv filter=lfs diff=lfs merge=lfs -text
+modis_Australia/modis_2000-2019_Australia.csv filter=lfs diff=lfs merge=lfs -text
+weatherAUS/weatherAUS.csv filter=lfs diff=lfs merge=lfs -text
