@@ -1,4 +1,4 @@
-Date,Location,MinTemp,MaxTemp,Rainfall,WindGustDir,WindGustSpeed
+date,location,minTemp,maxTemp,rainfall,windGustDir,windGustSpeed
 2008-12-01,Albury,13.4,22.9,0.6,W,44
 2008-12-02,Albury,7.4,25.1,0,WNW,44
 2008-12-03,Albury,12.9,25.7,0,WSW,46
