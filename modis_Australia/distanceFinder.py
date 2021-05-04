@@ -1,19 +1,21 @@
 import pandas as pd
 import math
+import time
 """
-    this scrip calculates the distance between each fire and all the cities 
+    this scrip calculates the distance between each fire and all the cities
     and indexes the fire to the closest city
 
-    to get the distance between city and fire its used Equirectangular approximation 
+    to get the distance between city and fire its used haversine formula
     witch looks like this:
-    Formula: x = Δλ ⋅ cos φm
-             y = Δφ
-             d = R ⋅ √(x² + y²)
-    
+    formula: a = sin²(Δφ/2) + cos φ1 ⋅ cos φ2 ⋅ sin²(Δλ/2)
+             c = 2 ⋅ atan2( √a, √(1−a) )
+             d = R ⋅ c
+
     where: Δλ -> diference between longitudes
            Δφ -> diference between latitudes
            R  -> earth’s radius
 """
+starTime = time.time()
 
 print('reading cities...')
 cities = pd.read_csv('cities\citiesF.csv')
@@ -35,9 +37,10 @@ for fire in fires.values:
         Dlat = (lat1 - lat2) * math.pi / 180
         Dlng = (lng1 - lng2) * math.pi / 180
 
-        x = (lng2 - lng1) * math.cos((lat1 - lat2)/2)
-        y = (lat2 - lat1)
-        d = math.sqrt(x**2 + y**2) * R
+        a = abs(pow((math.sin(Dlat / 2)), 2) + math.cos(lat1) *
+                math.cos(lat2) * pow((math.sin(Dlng / 2)), 2))
+        c = 2 * math.atan2(math.sqrt(a), math.sqrt(1-a))
+        d = R * c
         distances.append([city[0], d])
     lDistance = distances[0]
     for distance in distances:
@@ -48,6 +51,10 @@ for fire in fires.values:
 fires.insert(2, 'city', fireCity, False)
 
 fires.to_csv(
-    'modis_Australia/modis_2008-2017FC.csv',
+    'modis_Australia\modis_2008-2017Cities.csv',
     header=['latitude', 'longitude', 'city', 'brightness',
             'acq_date', 'confidence', 'daynight'], index=None)
+
+endTime = time.time()
+
+print(endTime - starTime)
