@@ -4,7 +4,8 @@ import math
     this scrip calculates the distance between each fire and all the cities 
     and indexes the fire to the closest city
 
-    to get the distance between city and fire its used Equirectangular approximation witch looks like this:
+    to get the distance between city and fire its used Equirectangular approximation 
+    witch looks like this:
     Formula: x = Δλ ⋅ cos φm
              y = Δφ
              d = R ⋅ √(x² + y²)
