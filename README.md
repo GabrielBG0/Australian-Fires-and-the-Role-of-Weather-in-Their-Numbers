@@ -13,11 +13,11 @@ Nesta seção será abordado quais dados serão utilizados para a análise, bem 
 
 Os dados utilizados neste trabalho são originários de quatro diferentes fontes, quais sejam: MODIS da NASA, Australian Bureau of Meteorology, FAO e Simple Maps.
 </br>
-Os dados referentes a focos de incêndio e anomalias térmicas são gerados pelo satélite MODIS da NASA e o dataset completo está disponível através deste link.
-Os dados referentes a condições climáticas por cidade foram gerados pelo Escritório de Meteorologia da Austrália (Australian Bureau of Meteorology) e podem ser acessados aqui.
-Dados referentes a variações climáticas por ano são dados distribuídos pela FAO e coletados pela NASA-GISS e podem ser acessados aqui.
-Por fim, os dados referentes a coordenadas geográficas de cada cidade são originados do dataset Simple Maps Austrália. 
-Além dos links contidos acima é possível acessar todos os datasets utilizados na íntegra através do repositório do trabalho.
+Os dados referentes a focos de incêndio e anomalias térmicas são gerados pelo satélite [MODIS](https://earthdata.nasa.gov/earth-observation-data/near-real-time/firms) da NASA e o dataset completo está disponível através deste [link](https://www.kaggle.com/gabrielbgutierrez/satellite-data-on-australia-fires).
+Os dados referentes a condições climáticas por cidade foram gerados pelo Escritório de Meteorologia da Austrália ([Australian Bureau of Meteorology](http://www.bom.gov.au/climate/data/)) e podem ser acessados [aqui](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package).
+Dados referentes a variações climáticas por ano são dados distribuídos pela [FAO](http://www.fao.org/home/en) e coletados pela [NASA-GISS](https://data.giss.nasa.gov/gistemp/) e podem ser acessados [aqui](https://www.kaggle.com/sevgisarac/temperature-change).
+Por fim, os dados referentes a coordenadas geográficas de cada cidade são originados do dataset [Simple Maps](https://simplemaps.com/data/au-cities) Austrália. 
+Além dos links contidos acima é possível acessar todos os datasets utilizados na íntegra através do [repositório](https://github.com/GabrielBG0/Australia-weather-and-fire-analysis) do trabalho.
 Ao final do documento estará presente uma relação de todos os atributos dos datasets utilizados, seus significados e quais deles foram escolhidos para serem utilizados.
 
 
