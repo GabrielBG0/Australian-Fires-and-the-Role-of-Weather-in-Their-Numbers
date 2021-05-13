@@ -108,11 +108,11 @@ Para apresentar o Data Warehouse vamos, primeiramente,trazer a modelagem do mesm
 #### 2.2.2 Tabelas Fato
 
 A modelagem inclui as seguintes tabelas fato:
-● Weather, com as informações de temperatura mínima, temperatura máxima,
+- Weather, com as informações de temperatura mínima, temperatura máxima,
 precipitação, direção do vento e velocidade do ventocomo fatos.
-● Fires, comasinformaçõesdebrilho,confiança,dia/noite,latitudeexata,longitude
+- Fires, comasinformaçõesdebrilho,confiança,dia/noite,latitudeexata,longitude
 exata como fatos.
-● WeatherVariation,comasinformaçõesdemudançadetemperaturaedesviopadrão
+- WeatherVariation,comasinformaçõesdemudançadetemperaturaedesviopadrão
 como fatos.
 
 
