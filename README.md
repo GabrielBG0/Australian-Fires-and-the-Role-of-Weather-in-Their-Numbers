@@ -88,6 +88,9 @@ necessárioestabelecerumeloentreosdoisdataset.Odatasetdecidadesfazexatamente
 isso, elecontémonomeda cidadee ascoordenadasgeográficasreferentes aela.As
 cidades utilizadas estão distribuídas da seguintemaneira:
 
+![photo1](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/visual%20resourses/cities%20map.jpeg?raw=true)
+![photi2](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/visual%20resourses/cities%20map%202.jpeg?raw=true)
+
 Nas fotos, ascidades representadas por roxo estãolocalizadas na regiãode Austrália
 meridional. As cidades representadas emvermelhoestãolocalizadas na região de Vitória.
 As cidades representadas por laranjaescuro sãodaregiãode NovaGalesdoSul.As
@@ -99,6 +102,8 @@ amarelose encontram na Tasmânia.
 Para apresentar o Data Warehouse vamos, primeiramente,trazer a modelagem do mesmo
 
 #### 2.2.1 Modelagem
+
+![modelagem](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/visual%20resourses/DW%20Model.png?raw=true)
 
 #### 2.2.2 Tabelas Fato
 
