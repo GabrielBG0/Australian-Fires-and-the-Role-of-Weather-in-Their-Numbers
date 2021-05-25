@@ -1,3 +1,5 @@
 Datasets/weatherAUS/Pre[[:space:]]Filter/weatherAUS.csv filter=lfs diff=lfs merge=lfs -text
 Datasets/modis_Australia/Pre[[:space:]]Filter/modis_2000-2019_Australia.csv filter=lfs diff=lfs merge=lfs -text
 Datasets/modis_Australia/Pre[[:space:]]Filter/modis_2008-2017.csv filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]Warehouse/Fires/fires.csv filter=lfs diff=lfs merge=lfs -text
+Data[[:space:]]Warehouse/Fires/fires.sql filter=lfs diff=lfs merge=lfs -text
