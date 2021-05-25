@@ -12,8 +12,8 @@ CREATE TABLE IF NOT EXISTS location
 (
  id        serial PRIMARY KEY,
  city      varchar(50) NOT NULL,
- latitude  decimal(10,6) NOT NULL,
- longitude decimal(9,6) NOT NULL
+ latitude  decimal(10,4) NOT NULL,
+ longitude decimal(9,4) NOT NULL
 );
 
 CREATE TABLE IF NOT EXISTS fires
@@ -24,8 +24,8 @@ CREATE TABLE IF NOT EXISTS fires
  brightness decimal(4,1) NOT NULL,
  confidence integer NOT NULL,
  dayNight   char(1) NOT NULL,
- longitude  decimal(10,6) NOT NULL,
- latitude   decimal(9,6) NOT NULL,
+ longitude  decimal(10,4) NOT NULL,
+ latitude   decimal(9,4) NOT NULL,
  CONSTRAINT PK_fires PRIMARY KEY ( id, dateId, locationId ),
  CONSTRAINT FK_28 FOREIGN KEY ( dateId ) REFERENCES date ( id ),
  CONSTRAINT FK_31 FOREIGN KEY ( locationId ) REFERENCES location ( id )
@@ -47,11 +47,11 @@ CREATE TABLE IF NOT EXISTS weather
  id            serial NOT NULL,
  dateId        integer NOT NULL,
  locationId    integer NOT NULL,
- mimTemp       decimal(3,1) NOT NULL,
- maxTemp       decimal(3,1) NOT NULL,
- rainfall      decimal(2,1) NOT NULL,
- windGustDir   char(3) NOT NULL,
- windGustSpeed integer NOT NULL,
+ mimTemp       decimal,
+ maxTemp       decimal,
+ rainfall      decimal,
+ windGustDir   char(3),
+ windGustSpeed integer,
  CONSTRAINT PK_weather PRIMARY KEY ( id, dateId, locationId ),
  CONSTRAINT FK_59 FOREIGN KEY ( dateId ) REFERENCES date ( id ),
  CONSTRAINT FK_62 FOREIGN KEY ( locationId ) REFERENCES location ( id )
@@ -74,6 +74,7 @@ CREATE TABLE IF NOT EXISTS weatherChange
  dateId            integer NOT NULL,
  temperatureChange decimal(2,1) NOT NULL,
  standardDeviation decimal(2,1) NOT NULL,
+ period	           character(1) NOT NULL,
  CONSTRAINT PK_weatherchange PRIMARY KEY ( id, dateId ),
  CONSTRAINT FK_53 FOREIGN KEY ( dateId ) REFERENCES date ( id )
 );
