@@ -1,0 +1,1 @@
+select id, year from date where (month = 1 and day = 1) or (month = 12 and day = 31) order by year, id asc;

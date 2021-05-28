@@ -1,0 +1,1 @@
+select count(*), city from fires f join location l on f.locationid = l.id where dateid > 0 and dateid < 367 group by f.locationid, l.city order by count(*) desc;

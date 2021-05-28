@@ -1,4 +1,4 @@
-index,location,latitude,longitude
+id,location,latitude,longitude
 1,Sydney,-33.865,151.2094
 2,Melbourne,-37.8136,144.9631
 3,Brisbane,-27.4678,153.0281
