@@ -1,3 +1,4 @@
+INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (30,1.3,0.6,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (396,0.7,0.6,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (761,0.9,0.6,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (1126,1.1,0.6,'m');
@@ -7,6 +8,7 @@ INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VAL
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (2587,0.4,0.6,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (2952,0.9,0.6,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (3318,1.1,0.6,'m');
+INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (59,-0.4,0.6,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (425,0.7,0.6,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (790,1.1,0.6,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (1155,0.1,0.6,'m');
@@ -16,6 +18,7 @@ INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VAL
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (2616,1.9,0.6,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (2981,1.3,0.6,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (3347,0.7,0.6,'m');
+INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (90,0.6,0.5,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (455,0.5,0.5,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (820,0.4,0.5,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (1185,-0.7,0.5,'m');
@@ -25,6 +28,7 @@ INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VAL
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (2646,0.8,0.5,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (3012,1.8,0.5,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (3377,1.7,0.5,'m');
+INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (121,-0.3,0.6,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (486,0.7,0.6,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (851,1.5,0.6,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (1216,-0.3,0.6,'m');
@@ -34,6 +38,7 @@ INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VAL
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (2677,-0.4,0.6,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (3043,2.1,0.6,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (3408,0.2,0.6,'m');
+INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (151,0.7,0.8,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (516,0.4,0.8,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (881,0.9,0.8,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (1246,-0.9,0.8,'m');
@@ -43,6 +48,7 @@ INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VAL
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (2707,0.3,0.8,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (3073,2.3,0.8,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (3438,1.0,0.8,'m');
+INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (182,1.1,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (547,0.7,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (912,0.4,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (1277,-0.5,0.7,'m');
@@ -52,6 +58,7 @@ INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VAL
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (2738,1.3,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (3104,1.3,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (3464,0.5,0.7,'m');
+INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (212,0.4,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (577,0.9,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (942,1.2,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (1307,0.7,0.7,'m');
@@ -60,6 +67,7 @@ INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VAL
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (2403,0.5,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (2768,0.6,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (3134,1.1,0.7,'m');
+INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (243,-0.5,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (608,2.5,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (973,0.3,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (1338,1.2,0.7,'m');
@@ -68,6 +76,7 @@ INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VAL
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (2434,0.5,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (2799,0.9,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (3165,0.7,0.7,'m');
+INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (274,1.5,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (639,1.4,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (1004,0.5,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (1369,0.4,0.7,'m');
@@ -76,6 +85,7 @@ INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VAL
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (2465,1.4,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (2830,0.6,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (3196,0.3,0.7,'m');
+INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (304,1.8,0.8,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (669,0.6,0.8,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (1034,-0.1,0.8,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (1399,0.7,0.8,'m');
@@ -84,6 +94,7 @@ INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VAL
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (2495,2.1,0.8,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (2860,3.0,0.8,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (3226,-0.2,0.8,'m');
+INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (335,0.2,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (700,2.2,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (1065,-0.3,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (1430,0.6,0.7,'m');
@@ -101,6 +112,7 @@ INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VAL
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (2556,1.1,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (2921,1.2,0.7,'m');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (3287,1.0,0.7,'m');
+INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (59,0.4,0.4,'s');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (425,0.5,0.4,'s');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (790,1.0,0.4,'s');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (1155,0.3,0.4,'s');
@@ -110,6 +122,7 @@ INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VAL
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (2616,1.1,0.4,'s');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (2981,1.1,0.4,'s');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (3347,0.9,0.4,'s');
+INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (151,0.3,0.5,'s');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (516,0.6,0.5,'s');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (881,0.9,0.5,'s');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (1246,-0.6,0.5,'s');
@@ -119,6 +132,7 @@ INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VAL
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (2707,0.2,0.5,'s');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (3073,2.1,0.5,'s');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (3438,1.0,0.5,'s');
+INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (243,0.3,0.5,'s');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (608,1.4,0.5,'s');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (973,0.6,0.5,'s');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (1338,0.5,0.5,'s');
@@ -127,6 +141,7 @@ INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VAL
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (2434,0.5,0.5,'s');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (2799,0.9,0.5,'s');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (3165,1.0,0.5,'s');
+INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (335,1.2,0.5,'s');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (700,1.4,0.5,'s');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (1065,0.0,0.5,'s');
 INSERT INTO weatherchange(dateid,temperaturechange,standarddeviation,period) VALUES (1430,0.6,0.5,'s');
