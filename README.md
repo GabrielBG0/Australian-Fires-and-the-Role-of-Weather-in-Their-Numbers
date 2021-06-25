@@ -44,8 +44,8 @@ O dataset contendo a variação de temperatura contém dados sobre mudança de t
 
 Como as medições de satélite têm sua localização marcada como coordenadas geográficas, e as medições meteorológicas usam o nome da cidade para ser identificadas é necessário estabelecer um elo entre os dois dataset. O dataset de cidades faz exatamente isso, ele contém o nome da cidade e as coordenadas geográficas referentes a ela. As cidades utilizadas estão distribuídas da seguinte maneira:
 
-![photo1](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/visual%20resourses/cities%20map.jpeg?raw=true)
-![photo2](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/visual%20resourses/cities%20map%202.jpeg?raw=true)
+![photo1](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/Aditional%20Resources/cities%20map.jpeg?raw=true)
+![photo2](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/Aditional%20Resources/cities%20map%202.jpeg?raw=true)
 
 Nas fotos, as cidades representadas por roxo estão localizadas na região de Austrália meridional. As cidades representadas em vermelho estão localizadas na região de Vitória.
 As cidades representadas por laranja escuro são da região de Nova Gales do Sul. As cidades em laranja claro pertencem à região de Queensland e por fim, as cidades em amarelo se encontram na Tasmânia.
@@ -56,7 +56,7 @@ Para apresentar o Data Warehouse vamos, primeiramente, trazer a modelagem do mes
 
 #### 2.2.1 Modelagem
 
-![modelagem](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/visual%20resourses/DW%20Model.png?raw=true)
+![modelagem](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/Aditional%20Resources/DW%20Model.png?raw=true)
 
 #### 2.2.2 Tabelas Fato
 
