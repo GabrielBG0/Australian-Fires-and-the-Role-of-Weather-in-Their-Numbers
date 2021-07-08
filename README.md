@@ -121,10 +121,13 @@ A melhor combinação de parâmetros para o MLP Regressor foram hidden layer siz
 
 ![modelagem](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/Aditional%20Resources/Final%20Graphs/AI/MLPR19.png?raw=true)
 **Gráfico 1. Contagem real x Previsão Moree (MLP Regressor)**
+
 ![modelagem](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/Aditional%20Resources/Final%20Graphs/AI/MLPR3.png?raw=true)
 **Gráfico 2. Contagem real x Previsão Wagga Wagga (MLP Regressor)**
+
 ![modelagem](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/Aditional%20Resources/Final%20Graphs/AI/MLPR12.png?raw=true)
 **Gráfico 3. Contagem real x Previsão Brisbane (MLP Regressor)**
+
 ![modelagem](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/Aditional%20Resources/Final%20Graphs/AI/MLPR21.png?raw=true)
 **Gráfico 4. Contagem real x Previsão Cobar (MLP Regressor)**
 
@@ -132,10 +135,13 @@ Para o Linear Regression, a melhor combinação foi copy X e normalize ativados 
 
 ![modelagem](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/Aditional%20Resources/Final%20Graphs/AI/LR19.png?raw=true)
 **Gráfico 5. Contagem real x Previsão Moree (Linear Regression)**
+
 ![modelagem](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/Aditional%20Resources/Final%20Graphs/AI/LR3.png?raw=true)
 **Gráfico 6. Contagem real x Previsão Wagga Wagga (Linear Regression)**
+
 ![modelagem](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/Aditional%20Resources/Final%20Graphs/AI/LR12.png?raw=true)
 **Gráfico 7. Contagem real x Previsão Brisbane (Linear Regression)**
+
 ![modelagem](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/Aditional%20Resources/Final%20Graphs/AI/LR21.png?raw=true)
 **Gráfico 8. Contagem real x Previsão Cobar (Linear Regression)**
 
@@ -152,10 +158,13 @@ Os gráficos que seguem representam a média móvel da temperatura média de cad
 
 ![modelagem](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/Aditional%20Resources/Final%20Graphs/Mean%20Temp%20vs%20Fires/meanTempXCount19.png?raw=true)
 **Gráfico 9. Temperatura x Incêndios Moree**
+
 ![modelagem](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/Aditional%20Resources/Final%20Graphs/Mean%20Temp%20vs%20Fires/meanTempXCount3.png?raw=true)
 **Gráfico 10. Temperatura x Incêndios Brisbane**
+
 ![modelagem](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/Aditional%20Resources/Final%20Graphs/Mean%20Temp%20vs%20Fires/meanTempXCount12.png?raw=true)
 **Gráfico 11. Temperatura x Incêndios Wagga Wagga**
+
 ![modelagem](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/Aditional%20Resources/Final%20Graphs/Mean%20Temp%20vs%20Fires/meanTempXCount21.png?raw=true)
 **Gráfico 12. Temperatura x Incêndios Cobar**
 
@@ -167,10 +176,13 @@ Diferentemente da temperatura, a precipitação não segue um padrão tão defin
 
 ![modelagem](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/Aditional%20Resources/Final%20Graphs/Rainfall%20vs%20Fires/rainfallXCount19.png?raw=true)
 **Gráfico 13. Precipitação x Incêndios Moree**
+
 ![modelagem](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/Aditional%20Resources/Final%20Graphs/Rainfall%20vs%20Fires/rainfallXCount3.png?raw=true)
 **Gráfico 14. Precipitação x Incêndios Brisbane**
+
 ![modelagem](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/Aditional%20Resources/Final%20Graphs/Rainfall%20vs%20Fires/rainfallXCount12.png?raw=true)
 **Gráfico 15. Precipitação x Incêndios Wagga Wagga**
+
 ![modelagem](https://github.com/GabrielBG0/Australia-Weather-and-Fire-Analysis/blob/main/Aditional%20Resources/Final%20Graphs/Rainfall%20vs%20Fires/rainfallXCount21.png?raw=true)
 **Gráfico 16. Precipitação x Incêndios Coba**
 
