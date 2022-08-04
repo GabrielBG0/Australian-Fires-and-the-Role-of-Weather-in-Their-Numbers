@@ -12,3 +12,6 @@ You can read the full paper [here](https://github.com/GabrielBG0/Australian-Fire
 
 ## Code
 All models developed and used on this project can be found on the [Notebooks](https://github.com/GabrielBG0/Australian-Fires-and-the-Role-of-Weather-in-Their-Numbers/tree/main/Notebooks) folder.
+
+## Data
+Data can be found [here](https://drive.google.com/drive/folders/1kj-KZuVBkMMGtqAd8GWiyJ4jZb7er7j7?usp=sharing)
